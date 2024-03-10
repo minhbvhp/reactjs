@@ -54,7 +54,7 @@ class UserManage extends Component {
                                     </td>
                                 </tr>
                             )
-                        })};
+                        })}
 
 
                     </table>
