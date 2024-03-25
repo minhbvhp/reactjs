@@ -131,7 +131,7 @@ class UserManage extends Component {
                     toggleFromParent={this.toggleUserModal}
                     createNewUser={this.createNewUser} />
 
-                <div className='title text-center'>Manage users with Eric</div>
+                <div className='title text-center'>Manage users</div>
 
                 <div className='mx-3'>
                     <button
